@@ -4,3 +4,6 @@ The pytorch implementation of the paper: [Sketch-to-Art: Synthesizing Stylized A
 This repo only provides the three proposed modules in the paper: DMI, FMT, and IDN.
 These are plug-and-play modules that can be applied to general Pix2Pix model for 
 sketch-to-image synthesis tasks.
+
+Here is an qualitative result from the sketch2art model:
+(https://github.com/odegeasslbc/Sketch2art-pytorch/blob/master/example.png)
